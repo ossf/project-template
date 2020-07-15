@@ -4,11 +4,11 @@ Anyone is welcome to join our open discussions related to the group's mission an
 
 ## Objective
 
-TODO
+Our objective to make enlightening open source security dashboards!
 
 ## Vision
 
-TODO
+Our vision is to improve the perception of security in open source software.
 
 # Governance
 
@@ -21,4 +21,4 @@ The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group acti
 
 ## Meeting times
 
-TODO
+<link to calendar>

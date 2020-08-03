@@ -22,3 +22,7 @@ The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group acti
 ## Meeting times
 
 <link to calendar>
+
+## Thanks
+
+This template was inspired by the work of the [CNCF SIG Security](https://github.com/cncf/sig-security) community.

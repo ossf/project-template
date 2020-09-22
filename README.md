@@ -1,28 +1,63 @@
-# OSSF Project/WG Template
+# **OSSF Project/WG Name**
 
-Anyone is welcome to join our open discussions related to the group's mission and charter.
+[Brief description of the initiative]
 
-## Objective
 
-Our objective to make enlightening open source security dashboards!
+## 
+**Motivation**
 
-## Vision
+[Background / use cases of the problem to be solved]
 
-Our vision is to improve the perception of security in open source software.
 
-# Governance
+## 
+**Objective**
 
-The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group activities.
+[What is to be achieved with this initiative]
 
-## Communications
+[OKRs]
 
-* [Meeting Minutes](https://docs.google.com/document/d/1uXQI1vI5_HyOvxHMexrnTY_ruBrynbPl5yOd1UM4g3A/edit#heading=h.yworp6sxzb6g)
-* TODO email list, github discussion
 
-## Meeting times
+## 
+**Scope**
 
-<link to calendar>
+[What is in and out of scope]
 
-## Thanks
 
-This template was inspired by the work of the [CNCF SIG Security](https://github.com/cncf/sig-security) community.
+## 
+**Prior Work**
+
+
+
+*   List of prior and/or related projects
+
+# 
+**Get Involved**
+
+*   Official communications occur on the [TAC mailing list](https://lists.openssf.org/g/openssf-tac/topics).  \
+[Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
+*   Slack information
+
+### 
+Quick Start
+
+*   Areas that need contributions
+*   Build information if applicable
+*   Where to file issues
+*   Etc.
+
+## 
+**Meeting times**
+
+*   Every other Tuesday @ 10:00am PST (Link to calendar invite)
+*   [Meeting Minutes](https://docs.google.com/document/d/1uXQI1vI5_HyOvxHMexrnTY_ruBrynbPl5yOd1UM4g3A/edit#heading=h.yworp6sxzb6g)
+
+# 
+**Governance**
+
+
+The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
+
+
+
+*   Lead name 
+*   Co-Lead name

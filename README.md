@@ -14,7 +14,7 @@
 
 [What is to be achieved with this initiative]
 
-[OKRs]
+[OKRs - OPTIONAL]
 
 
 ## 
@@ -33,9 +33,9 @@
 # 
 **Get Involved**
 
-*   Official communications occur on the [TAC mailing list](https://lists.openssf.org/g/openssf-tac/topics).  \
+*   Official communications occur on the [ADD LINK TO YOUR WG MAILING LIST] (ex: https://lists.openssf.org/g/openssf-tac/topics).  \
 [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
-*   Slack information
+*   [Add Slack information if availabable]
 
 ### 
 Quick Start
@@ -48,16 +48,17 @@ Quick Start
 ## 
 **Meeting times**
 
+[TODO: Update with your WG meeting details]
 *   Every other Tuesday @ 10:00am PST (Link to calendar invite)
 *   [Meeting Minutes](https://docs.google.com/document/d/1uXQI1vI5_HyOvxHMexrnTY_ruBrynbPl5yOd1UM4g3A/edit#heading=h.yworp6sxzb6g)
 
 # 
 **Governance**
 
-
+[TODO: Update this link to your specific CHARTER.md file]
 The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
 
 
-
+[OPTIONAL]
 *   Lead name 
 *   Co-Lead name

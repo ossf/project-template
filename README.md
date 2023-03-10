@@ -68,7 +68,7 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 
 In accordance with the [OpenSSF Charter (PDF)](https://charter.openssf.org/), work produced by this group is licensed as follows:
 
-[TODO: Select below the applicable license(s), delete those that don't apply, and update the LICENSE file accordingly. For specification development refer to the specific instructions on the [Community Specification Getting Started page](https://github.com/CommunitySpecification/1.0/blob/master/..Getting%20Started.md).
+[TODO: Select below the applicable license(s), delete those that don't apply, and update the LICENSE file accordingly. For specification development refer to the specific instructions on the [Community Specification Getting Started page](https://github.com/CommunitySpecification/1.0/blob/main/..Getting%20Started.md).
 
 Note that for source code, instead of Apache, you may choose to use the MIT License available at https://opensource.org/licenses/MIT. Otherwise, no other license than those listed here may be used without approval from the Governing Board.]
 

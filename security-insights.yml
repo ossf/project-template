@@ -1,0 +1,62 @@
+# https://openssf.org/projects/security-insights-spec/
+#
+# This specification provides a mechanism for projects to report information about
+# their security in a machine-processable way. It is formatted as a YAML file to
+# make it easy to read and edit by humans.
+
+# The data tracked within this specification is intended to fill the gaps between
+# simplified solutions such as SECURITY.md and comprehensive automatable solutions
+# such as SBOMs. In that gap lay elements that must be self-reported by projects
+# to allow end-users to make informed security decisions.
+
+# See https://github.com/ossf/security-insights-spec/blob/v2.0.0/specification/header.md
+header:
+  schema-version: 2.0.0
+  last-updated: '2021-09-01' #TODO: update with last updated
+  last-reviewed: '2022-09-01' #TODO: update with last reviewed
+  url: https://foo.bar/foo/bar #TODO: update with your project URL
+  comment: |
+    This file contains the minimum information for both project and repository.
+    It not required to include both a project and repository section if the project
+    section is intended to be inherited by repositories via header.project-si-source
+
+# See https://github.com/ossf/security-insights-spec/blob/v2.0.0/specification/project.md
+project:
+  name: FooBar #TODO: update with your project name
+  administrators: #TODO: update with your project administrators
+    - name: Joe Dohn
+      affiliation: Foo
+      email: joe.bob@email.com
+      social: https://bsky.com/joebob
+      primary: true
+  repositories: #TODO: update with your project repositories
+    - name: Foo
+      url: https://my.vcs/foobar/foo
+      comment: |
+        Foo is the core repo for FooBar.
+  vulnerability-reporting: #TODO: update with your project vulnerability reporting details
+    reports-accepted: true
+    bug-bounty-available: true
+    security-policy: https://github.com/foo/bar?tab=security-ov-file #TODO: update with your project security policy URL
+
+# See https://github.com/ossf/security-insights-spec/blob/v2.0.0/specification/repository.md
+repository: #TODO: update with your repository details
+  url: https://my.vcs/foobar/foo
+  status: active
+  accepts-change-request: true
+  accepts-automated-change-request: true
+  core-team:
+    - name:        Alice White
+      affiliation: Foo Bar
+      email:       alicewhite@email.com
+      social:      https://bsky.com/alicewhite
+      primary:     true
+  license:
+    url: https://github.com/foo/bar/blob/main/LICENSE #TODO: update with your repository license URL
+    expression: Apache-2.0
+  security:
+    assessments:
+      self:
+        comment: |
+          Self assessment has not yet been completed.
+      

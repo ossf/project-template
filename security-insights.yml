@@ -51,6 +51,8 @@ repository: #TODO: update with your repository details
       email:       alicewhite@email.com
       social:      https://bsky.com/alicewhite
       primary:     true
+  documentation:
+    dependency-management-policy: https://best.openssf.org/Concise-Guide-for-Evaluating-Open-Source-Software
   license:
     url: https://github.com/foo/bar/blob/main/LICENSE #TODO: update with your repository license URL
     expression: Apache-2.0

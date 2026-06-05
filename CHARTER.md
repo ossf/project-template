@@ -1,6 +1,6 @@
 # Technical Charter for Open Source Security Foundation
 
-[OSS-SIRT | Technical Initiative]
+## OSS-SIRT | Technical Initiative
 
 Adopted [TBD]
 
